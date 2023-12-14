@@ -53,8 +53,6 @@ Please do not contribute
 
 If you have any questions, you can reach me at this 9joshuajones5@gmail.com email address.
 
-undefined
-
 
 ## Tests
 
